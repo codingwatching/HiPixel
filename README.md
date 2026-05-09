@@ -225,13 +225,11 @@ If you find HiPixel helpful, please consider supporting its development:
 - 💝 Support via:
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/okooo5km" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+  <a href="https://www.buymeacoffee.com/okooo5km"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" /></a>
 </p>
 
 <details>
 <summary>More ways to support</summary>
-
-- 🛍️ **[One-time Support via LemonSqueezy](https://okooo5km.lemonsqueezy.com/buy/4f1e3249-2683-4000-acd4-6b05ae117b40?discount=0)**
 
 - **WeChat Pay**
 
