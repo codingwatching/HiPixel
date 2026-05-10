@@ -3,11 +3,7 @@
 使用我的应用也是 [支持我](https://5km.tech) 的一种方式：
 
 <p align="center">
-  <a href="https://zipic.app"><img src="https://5km.tech/products/zipic/icon.png" width="60" height="60" alt="Zipic" style="border-radius: 12px; margin: 4px;"></a>
-  <a href="https://orchard.5km.tech"><img src="https://5km.tech/products/orchard/icon.png" width="60" height="60" alt="Orchard" style="border-radius: 12px; margin: 4px;"></a>
-  <a href="https://apps.apple.com/cn/app/timego-clock/id6448658165?l=en-GB&mt=12"><img src="https://5km.tech/products/timego/icon.png" width="60" height="60" alt="TimeGo Clock" style="border-radius: 12px; margin: 4px;"></a>
-  <a href="https://keygengo.5km.tech"><img src="https://5km.tech/products/keygengo/icon.png" width="60" height="60" alt="KeygenGo" style="border-radius: 12px; margin: 4px;"></a>
-  <a href="https://hipixel.5km.tech"><img src="https://hipixel.5km.tech/_next/image?url=%2Fappicon.png&w=256&q=75" width="60" height="60" alt="HiPixel" style="border-radius: 12px; margin: 4px;"></a>
+  <a href="https://zipic.app"><img src="https://5km.tech/products/zipic/icon.png" width="60" height="60" alt="Zipic"></a>&nbsp;&nbsp;<a href="https://orchard.5km.tech"><img src="https://5km.tech/products/orchard/icon.png" width="60" height="60" alt="Orchard"></a>&nbsp;&nbsp;<a href="https://apps.apple.com/cn/app/timego-clock/id6448658165?l=en-GB&mt=12"><img src="https://5km.tech/products/timego/icon.png" width="60" height="60" alt="TimeGo Clock"></a>&nbsp;&nbsp;<a href="https://keygengo.5km.tech"><img src="https://5km.tech/products/keygengo/icon.png" width="60" height="60" alt="KeygenGo"></a>&nbsp;&nbsp;<a href="https://hipixel.5km.tech"><img src="https://5km.tech/products/hipixel/icon.png" width="60" height="60" alt="HiPixel"></a>
 </p>
 
 ---
@@ -225,25 +221,12 @@ HiPixel 采用 GNU Affero 通用公共许可证第3版 (AGPLv3) 授权。这意�
 - 💝 赞助支持：
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/okooo5km" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+  <a href="https://www.buymeacoffee.com/okooo5km"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60"></a>
 </p>
 
-<details>
-<summary>更多支持方式</summary>
-
-- 🛍️ **[通过 LemonSqueezy 一次性支持](https://okooo5km.lemonsqueezy.com/buy/4f1e3249-2683-4000-acd4-6b05ae117b40?discount=0)**
-
-- **微信支付**
-  <p>
-    <img src="https://storage.5km.host/wechatpay.png" width="200" alt="微信支付二维码" style="border-radius: 16px;" />
-  </p>
-
-- **支付宝**
-  <p>
-    <img src="https://storage.5km.host/alipay.png" width="200" alt="支付宝二维码" style="border-radius: 16px;" />
-  </p>
-
-</details>
+<p align="center">
+  <a href="https://storage.5km.host/wechatpay.png"><img src="https://storage.5km.host/wechatpay.png" width="240" alt="微信支付"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://storage.5km.host/alipay.png"><img src="https://storage.5km.host/alipay.png" width="240" alt="支付宝"></a>
+</p>
 
 您的支持将帮助我们持续改进 HiPixel！
 
