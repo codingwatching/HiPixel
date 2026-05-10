@@ -2,9 +2,13 @@
 
 Using my apps is also a way to [support me](https://5km.tech):
 
-<p align="center">
-  <a href="https://zipic.app"><img src="https://5km.tech/products/zipic/icon.png" width="60" height="60" alt="Zipic"></a>&nbsp;&nbsp;<a href="https://orchard.5km.tech"><img src="https://5km.tech/products/orchard/icon.png" width="60" height="60" alt="Orchard"></a>&nbsp;&nbsp;<a href="https://apps.apple.com/cn/app/timego-clock/id6448658165?l=en-GB&mt=12"><img src="https://5km.tech/products/timego/icon.png" width="60" height="60" alt="TimeGo Clock"></a>&nbsp;&nbsp;<a href="https://keygengo.5km.tech"><img src="https://5km.tech/products/keygengo/icon.png" width="60" height="60" alt="KeygenGo"></a>&nbsp;&nbsp;<a href="https://hipixel.5km.tech"><img src="https://5km.tech/products/hipixel/icon.png" width="60" height="60" alt="HiPixel"></a>
-</p>
+<table align="center"><tr>
+<td align="center"><a href="https://zipic.app"><img src="https://5km.tech/products/zipic/icon.png" width="60" height="60" alt="Zipic"></a></td>
+<td align="center"><a href="https://orchard.5km.tech"><img src="https://5km.tech/products/orchard/icon.png" width="60" height="60" alt="Orchard"></a></td>
+<td align="center"><a href="https://apps.apple.com/cn/app/timego-clock/id6448658165?l=en-GB&mt=12"><img src="https://5km.tech/products/timego/icon.png" width="60" height="60" alt="TimeGo Clock"></a></td>
+<td align="center"><a href="https://keygengo.5km.tech"><img src="https://5km.tech/products/keygengo/icon.png" width="60" height="60" alt="KeygenGo"></a></td>
+<td align="center"><a href="https://hipixel.5km.tech"><img src="https://5km.tech/products/hipixel/icon.png" width="60" height="60" alt="HiPixel"></a></td>
+</tr></table>
 
 ---
 
@@ -224,9 +228,10 @@ If you find HiPixel helpful, please consider supporting its development:
   <a href="https://www.buymeacoffee.com/okooo5km"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60"></a>
 </p>
 
-<p align="center">
-  <a href="https://storage.5km.host/wechatpay.png"><img src="https://storage.5km.host/wechatpay.png" width="240" alt="WeChat Pay"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://storage.5km.host/alipay.png"><img src="https://storage.5km.host/alipay.png" width="240" alt="Alipay"></a>
-</p>
+<table align="center"><tr>
+<td align="center"><a href="https://storage.5km.host/wechatpay.png?v=20260510"><img src="https://storage.5km.host/wechatpay.png?v=20260510" width="240" alt="WeChat Pay"></a></td>
+<td align="center"><a href="https://storage.5km.host/alipay.png?v=20260510"><img src="https://storage.5km.host/alipay.png?v=20260510" width="240" alt="Alipay"></a></td>
+</tr></table>
 
 Your support helps maintain and improve HiPixel!
 
