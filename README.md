@@ -224,13 +224,10 @@ If you find HiPixel helpful, please consider supporting its development:
 - 🐛 Report bugs or suggest features
 - 💝 Support via:
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/okooo5km"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60"></a>
-</p>
-
 <table align="center"><tr>
-<td align="center"><a href="https://storage.5km.host/wechatpay.png?v=20260510"><img src="https://storage.5km.host/wechatpay.png?v=20260510" width="240" alt="WeChat Pay"></a></td>
-<td align="center"><a href="https://storage.5km.host/alipay.png?v=20260510"><img src="https://storage.5km.host/alipay.png?v=20260510" width="240" alt="Alipay"></a></td>
+<td align="center"><a href="https://www.buymeacoffee.com/okooo5km"><img src="https://storage.5km.host/bmc.png?v=20260510" width="220" alt="Buy Me a Coffee"></a></td>
+<td align="center"><a href="https://storage.5km.host/wechatpay.png?v=20260510"><img src="https://storage.5km.host/wechatpay.png?v=20260510" width="220" alt="WeChat Pay"></a></td>
+<td align="center"><a href="https://storage.5km.host/alipay.png?v=20260510"><img src="https://storage.5km.host/alipay.png?v=20260510" width="220" alt="Alipay"></a></td>
 </tr></table>
 
 Your support helps maintain and improve HiPixel!
